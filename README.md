@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Collection, Data Cleaning, Analyzing Data ,etc**
 
-- 📫 How to reach me **ranveersingh@gmail.com**
+- 📫 How to reach me **ranveersingh0699@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
