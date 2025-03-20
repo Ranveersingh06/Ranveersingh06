@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Tejaspatil2002/Tejaspatil2002/blob/main/TeJAS%20PATIL%20(1).png)
 <h1 align="center">Hi 👋, I'm Ranveer Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align ="right" alt = "coding" width="400" src="https://datascientest.com/en/files/2024/03/Citizen_Data_Scientist-1024x585-1.jpg">
