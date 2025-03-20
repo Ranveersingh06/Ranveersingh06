@@ -1,4 +1,4 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Ranveer Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align ="right" alt = "coding" width="400" src="https://datascientest.com/en/files/2024/03/Citizen_Data_Scientist-1024x585-1.jpg">
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Collection, Data Cleaning, Analyzing Data ,etc**
 
-- 📫 How to reach me **patiltejas1565@gmail.com**
+- 📫 How to reach me **ranveersingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
